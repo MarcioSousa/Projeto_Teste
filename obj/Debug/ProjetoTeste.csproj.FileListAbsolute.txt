@@ -1,0 +1,10 @@
+C:\Users\ELCIONAVESREZENDE\Desktop\C#_SQL\ProjetoTeste\ProjetoTeste\ProjetoTeste\bin\Debug\ProjetoTeste.exe.config
+C:\Users\ELCIONAVESREZENDE\Desktop\C#_SQL\ProjetoTeste\ProjetoTeste\ProjetoTeste\bin\Debug\ProjetoTeste.exe
+C:\Users\ELCIONAVESREZENDE\Desktop\C#_SQL\ProjetoTeste\ProjetoTeste\ProjetoTeste\bin\Debug\ProjetoTeste.pdb
+C:\Users\ELCIONAVESREZENDE\Desktop\C#_SQL\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.csprojAssemblyReference.cache
+C:\Users\ELCIONAVESREZENDE\Desktop\C#_SQL\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.frmPrincipal.resources
+C:\Users\ELCIONAVESREZENDE\Desktop\C#_SQL\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.Properties.Resources.resources
+C:\Users\ELCIONAVESREZENDE\Desktop\C#_SQL\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.GenerateResource.cache
+C:\Users\ELCIONAVESREZENDE\Desktop\C#_SQL\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\ELCIONAVESREZENDE\Desktop\C#_SQL\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.exe
+C:\Users\ELCIONAVESREZENDE\Desktop\C#_SQL\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
